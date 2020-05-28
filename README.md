@@ -1,4 +1,4 @@
-This project is from Lexmax[Create React App](https://www.linkedin.com/company/lexmax/).
+This project is from Lexmax[Lexmax](https://www.linkedin.com/company/lexmax/).
 ## Lexmax Frontend Challenge
 
 In the project directory, you can run:
