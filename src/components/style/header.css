@@ -1,0 +1,38 @@
+header{
+    background: #f8b24f;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    align-items: center;
+    word-spacing: 7px;    
+}
+
+main{
+    background-color: #f8b24f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 57vh;
+}
+
+.main__info{
+    background-color: #fff;
+    width: 45%;
+    margin-left: 9em;
+    padding: 10px 20px;
+}
+
+.main__info h3{
+    font-weight: 300;
+}
+.main__target{
+    width: 10em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 9em;
+}

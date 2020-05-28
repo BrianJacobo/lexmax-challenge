@@ -1,0 +1,26 @@
+.article{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 80px;
+}
+.article__img--product{
+    width: 400px;
+}
+.article__info{
+    align-self: flex-start;
+}
+.article__buy{
+    font-size: 15px;
+    padding: 5px 35px;
+    background-color: transparent;
+    color: #2699fb;
+    border-radius: 8px;
+    border: 1px solid #2699fb;
+    outline-style: none;
+}
+.article__buy:hover{
+    background-color: #fffff9;
+    border: 1px solid #061f36;
+   cursor: pointer;
+}
