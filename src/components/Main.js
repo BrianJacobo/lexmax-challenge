@@ -14,10 +14,10 @@ class Main extends React.Component {
           </h3>
         </div>
         <div class="main__target">
-          <Link to="/">
+          <Link to="/product">
             <h3>Leave company</h3>
           </Link>
-          <Link href="/">
+          <Link href="/product">
             <h3>→</h3>
           </Link>
         </div>
